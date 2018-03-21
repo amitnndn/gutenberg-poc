@@ -1,1 +1,1 @@
-pybuilder=0.11.14
+pybuilder==0.11.14
